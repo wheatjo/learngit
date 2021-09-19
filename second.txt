@@ -1,2 +1,3 @@
 second learn git.
 this is learn git stage
+reset
