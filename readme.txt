@@ -1,3 +1,3 @@
 the first step to learn git.
 git is free software.
-add the third sentance.
+delete the third sentance, add fourth txt.
