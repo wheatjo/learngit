@@ -4,3 +4,4 @@ delete the third sentance, add fourth txt.
 git is free software distributed under the GPL.
 learn git stage
 Git tracks changes.
+git diff test.
