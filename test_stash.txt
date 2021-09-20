@@ -1,2 +1,3 @@
 test git stash
 simulate a bug
+simulate a bug which No.2
