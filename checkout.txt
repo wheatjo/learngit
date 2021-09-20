@@ -1,2 +1,2 @@
 modify message in exist file "checkout.txt"
-xxa
+the last text is xxa!
