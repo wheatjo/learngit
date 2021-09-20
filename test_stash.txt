@@ -1,3 +1,8 @@
 test git stash
+<<<<<<< HEAD
 simulate bug No.1 and fix
 simulate bug No.2 and fix
+=======
+simulate a bug
+simulate a bug which No.2
+>>>>>>> dev
