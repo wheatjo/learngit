@@ -1,2 +1,3 @@
 test git stash
 simulate bug No.1 and fix
+simulate bug No.2 and fix
